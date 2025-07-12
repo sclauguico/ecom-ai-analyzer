@@ -24,7 +24,7 @@ class SnowflakeTools:
             insecure_mode=True,
         )
     
-    # Function for getting the sales metrics
+    # Method for getting the sales metrics
     def get_sales_metrics(self, days: int = 30) -> Dict[str, Any]:
         cursor = self.conn.cursor()
         end_date = datetime.now()
@@ -51,7 +51,7 @@ class SnowflakeTools:
             "unique_customers": result[3] or 0
         }
     
-    # Function for getting the top products
+    # Methods for getting the top products
     def get_top_products(self, no_products: int = 10) -> Dict[str, Any]:
         cursor = self.conn.cursor()
         
@@ -82,7 +82,7 @@ class SnowflakeTools:
         
         return {"top_products": products}
     
-    # Function for defining customer segments (simple example based on income)
+    # Method for defining customer segments (simple example based on income)
     def get_customer_segments(self) -> Dict[str, Any]:
         cursor = self.conn.cursor()
         
