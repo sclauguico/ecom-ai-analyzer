@@ -184,9 +184,9 @@ Requires Python 3.11+, Node 18+, and environment setup.
 - **Data:** Snowflake
 - **Deployment:** Docker, Docker Compose
 
-## License
+## Demonstration Video
 
-MIT License - see LICENSE file for details.
+Please refer to this [link] (https://www.canva.com/design/DAGtCKZSQPY/YCCzIVhRFR86yIf5VVBC9A/watch?utm_content=DAGtCKZSQPY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfe48710daa)
 
 ## Related Projects
 
