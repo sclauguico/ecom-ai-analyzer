@@ -2,7 +2,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel # BaseModel is a superclass for defining data models
-from typing import Dict, Any
 from langgraph_agents import EcommerceAgents # Self-defined / custom class from langgraph_agents.py
 from tool_snowflake import SnowflakeTools # Self-defined / custom class from tool_snowflake.py
 import uvicorn
