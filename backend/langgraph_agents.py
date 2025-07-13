@@ -29,7 +29,7 @@ class EcommerceAgents:
             model="claude-3-sonnet-20240229", # For the model parameter, define your favorite model as the argument. Mine is Claude Sonnet!
             api_key=os.getenv('ANTHROPIC_API_KEY')
         )
-        # Instantiate supporting objects used by this class
+        # Instantiate supporting objects used by these classes
         self.tools = SnowflakeTools()
         self.memory = MemorySaver()
         self.graph = self._build_graph()
