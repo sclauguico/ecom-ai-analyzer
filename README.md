@@ -2,7 +2,12 @@
 
 AI agents that actually understand your business data. Built this to stop writing the same queries over and over.
 
+
+**eCommerce AI Agents Diagram**
 ![eCommerce AI Agents Diagram](architecture.png)
+
+**eCommerce End-to-End Diagram**
+![eCommerce End-to-End Diagram](end-to-end.png)
 
 **Dependencies:** Snowflake + Anthropic API
 
