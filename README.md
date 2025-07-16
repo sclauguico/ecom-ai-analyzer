@@ -9,6 +9,9 @@ AI agents that actually understand your business data. Built this to stop writin
 **eCommerce End-to-End Diagram**
 ![eCommerce End-to-End Diagram](end-to-end.png)
 
+**Agents Mermaid Diagram**
+![Agents Mermaid Diagram](mermaid-diagram.png)
+
 **Dependencies:** Snowflake + Anthropic API
 
 ## What it does
