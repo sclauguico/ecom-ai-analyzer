@@ -48,6 +48,12 @@ docker-compose up --build
 - API: http://localhost:8000
 - Docs: http://localhost:8000/docs
 
+## Architecture
+
+```
+Query → React UI → FastAPI → LangGraph Agents ↔ Snowflake ↔ Claude Analysis → Recommendations → LangGraph Agents → FastAPI → React UI → Results
+```
+
 **Components:**
 - **React Frontend** - Chat interface for queries
 - **FastAPI Backend** - REST API handling requests
@@ -56,7 +62,7 @@ docker-compose up --build
   - Analyst: Identifies patterns and trends
   - Consultant: Generates business recommendations
 - **Claude** - Does the actual analysis
-- **Snowflake** - Your data warehouse
+- **Snowflake** - Data warehouse
 
 ## Development
 
