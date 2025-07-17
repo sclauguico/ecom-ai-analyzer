@@ -23,10 +23,10 @@ class AnalysisState(TypedDict):
 
 # Define the EcommerceAgents class: Blueprint for creating the agents and tools
 class EcommerceAgents:
-    # Define the constructor that runs automatically when an obkect is instantiated from this class
+    # Define the constructor that runs automatically when an object is instantiated from this class
     def __init__(self):
         self.llm = ChatAnthropic(
-            model="claude-3-sonnet-20240229", # For the model parameter, define your favorite model as the argument. Mine is Claude Sonnet!
+            model="claude-3-sonnet-20240229", # Define a model. Claude Sonnet is my fave!
             api_key=os.getenv('ANTHROPIC_API_KEY')
         )
         # Instantiate supporting objects used by these classes
