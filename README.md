@@ -204,7 +204,9 @@ Please refer to this [link](https://www.canva.com/design/DAGtCKZSQPY/YCCzIVhRFR8
 
 Big thanks to the amazing educators who made this project possible:
 
-- **[Ed Donner](https://www.udemy.com/user/ed-donner-3/)** - For the excellent LLM Engg and AI Agents coursess
+- **[Ed Donner](https://www.udemy.com/user/ed-donner-3/)** - For the excellent LLM Engg and AI Agents courses
 - **[freeCodeCamp with Vaibhav Mehra](https://www.youtube.com/watch?v=jGg_1h0qzaM)** - For making LangGraph intuitive
+- **[IBM Coursera Specializations](https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai?)** - For always making awesome foundational courses
 - **[Tech with Tim](https://www.youtube.com/watch?v=13tMEW8r6C0&list=WL&index=28&t=1168s)** - For the React + FastAPI integration
 - **[Krish Naik](https://www.youtube.com/@krishnaik06)** - For all the awesome end-to-end projects
+- **Claude and ChatGPT** - For helping me debug faster
