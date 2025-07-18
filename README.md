@@ -209,4 +209,4 @@ Big thanks to the amazing educators who made this project possible:
 - **[IBM Coursera Specializations](https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai?)** - For always making awesome foundational courses
 - **[Tech with Tim](https://www.youtube.com/watch?v=13tMEW8r6C0&list=WL&index=28&t=1168s)** - For the React + FastAPI integration
 - **[Krish Naik](https://www.youtube.com/@krishnaik06)** - For all the awesome end-to-end projects
-- **Claude and ChatGPT** - For helping me debug faster
+- **Claude and ChatGPT** - For the ideas and helping me debug faster
