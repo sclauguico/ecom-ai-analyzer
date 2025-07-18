@@ -196,6 +196,10 @@ Requires Python 3.11+, Node 18+, and environment setup.
 
 Please refer to this [link](https://www.canva.com/design/DAGtCKZSQPY/YCCzIVhRFR86yIf5VVBC9A/watch?utm_content=DAGtCKZSQPY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfe48710daa)
 
+## Documentation Article
+
+Refer to this this [Medium article](https://medium.com/@sclauguico/ecom-phase-4-building-ai-agents-for-e-commerce-analytics-with-langgraph-fd1b2471482d)
+
 ## Related Projects
 
 - [ECOM Phase 1](https://github.com/sclauguico/ecommerce-modern-data-stack) - Data pipeline foundation
