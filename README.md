@@ -198,7 +198,7 @@ Please refer to this [link](https://www.canva.com/design/DAGtCKZSQPY/YCCzIVhRFR8
 
 ## Documentation Article
 
-Refer to this this [Medium article](https://medium.com/@sclauguico/ecom-phase-4-building-ai-agents-for-e-commerce-analytics-with-langgraph-fd1b2471482d)
+Refer to this [Medium article](https://medium.com/@sclauguico/ecom-phase-4-building-ai-agents-for-e-commerce-analytics-with-langgraph-fd1b2471482d)
 
 ## Related Projects
 
