@@ -2,6 +2,8 @@
 
 AI agents that actually understand your business data. Built this to stop writing the same queries over and over.
 
+New version featuring enhanced chart generation capabilities, available in this separate GitHub repository and demonstrated at PyCon Davao:
+https://github.com/sclauguico/ecom-ai-agents
 
 **eCommerce AI Agents Diagram**
 ![eCommerce AI Agents Diagram](architecture.png)
